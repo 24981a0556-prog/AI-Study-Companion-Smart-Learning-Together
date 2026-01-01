@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to my Lovable project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**:https://ai-study-companion-ivory.vercel.app/
 
 ## How can you edit this code?
 
@@ -62,7 +62,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## How can You deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
