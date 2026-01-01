@@ -4,7 +4,7 @@
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-## How can I edit this code?
+## How can you edit this code?
 
 There are several ways of editing your application.
 
@@ -13,6 +13,8 @@ There are several ways of editing your application.
 Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
+
+But, for doing this you need my permission
 
 **Use your preferred IDE**
 
@@ -53,7 +55,7 @@ npm run dev
 ## What technologies are used for this project?
 
 This project is built with:
-
+- Html
 - Vite
 - TypeScript
 - React
