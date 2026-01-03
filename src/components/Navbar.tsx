@@ -32,7 +32,19 @@ export const Navbar = () => {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-1">
-            {navLinks.map(link => {})}
+            {navLinks.map(link => (
+              <Link
+                key={link.href}
+                to={link.href}
+                className={`px-4 py-2 rounded-lg transition-colors ${
+                  location.pathname === link.href
+                    ? 'bg-secondary text-foreground'
+                    : 'hover:bg-secondary/50 text-muted-foreground hover:text-foreground'
+                }`}
+              >
+                {link.label}
+              </Link>
+            ))}
           </div>
 
           {/* Desktop CTA */}
